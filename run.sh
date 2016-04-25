@@ -1,3 +1,3 @@
 #!/bin/bash
 
-java -cp "*;" com.tictactoe.TicTacToe
+java -cp .:\* com.tictactoe.TicTacToe

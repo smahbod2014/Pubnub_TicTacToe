@@ -95,7 +95,7 @@ public class PlayingCallback extends Callback {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
 				}
-				System.out.println("Your oppponent (" + nickname + ") won! You're back in the lobby now. Enter \"p\" to play again or enter \"h\" for a list of commands.");
+				System.out.println("Your opponent (" + nickname + ") won! You're back in the lobby now. Enter \"p\" to play again or enter \"h\" for a list of commands.");
 				System.out.print("Enter a command: ");
 				TicTacToe.isPlaying = false;
 			}

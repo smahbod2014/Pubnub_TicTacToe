@@ -1,3 +1,3 @@
 #!/bin/bash
 
-javac -cp "*;" com/tictactoe/*.java
+javac -cp .:\* com/tictactoe/*.java

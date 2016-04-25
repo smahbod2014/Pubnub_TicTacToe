@@ -278,7 +278,7 @@ public class TicTacToe {
 				break;
 		}
 		
-		System.out.println("Thanks for playing! Have a good day.");
+		System.out.println("Thanks for playing!");
 		scanner.close();
 		pubnub.shutdown();
 	}
