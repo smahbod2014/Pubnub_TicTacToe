@@ -59,6 +59,9 @@ public class TicTacToe {
 			//read a line from the console
 			String input = scanner.nextLine();
 			
+			if (input.length() == 0)
+				continue;
+			
 			//get the command
 			char command = input.charAt(0);
 			
