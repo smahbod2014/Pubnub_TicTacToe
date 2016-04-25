@@ -22,6 +22,6 @@ To run the app on Linux, follow these steps:
 
 1. Install Java if it isn't already installed.
 
-2. Open a terminal in the directory containing "compile.sh" and "run.sh" and run the commands "chmod +x compile.sh" and "chmod +x run.sh" without quotes.
+2. Open a terminal in the directory containing "compile.sh" and "run.sh" and run the command "chmod +x *.sh" without quotes.
 
 3. Follow the same instructions as above for Windows, but you will run "./compile.sh" and "./run.sh" instead of "compile.bat" and "run.bat".
